@@ -1,0 +1,7 @@
+# Ignorar la carpeta del entorno virtual (a modo de ejemplo, si la tuvieras local)
+D:\gzo\myProjects\dataAnalyst\environments\m_s_d_02
+
+# Ignorar archivos de Jupyter checkpoints
+__pycache__/
+*.pyc
+.ipynb_checkpoints
